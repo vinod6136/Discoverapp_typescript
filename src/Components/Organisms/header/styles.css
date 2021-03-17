@@ -1,0 +1,7 @@
+.header-bar{
+    display: grid;
+    grid-template-columns: 20% 40% 30%;
+    grid-gap: 1em;
+    padding: 10px;
+
+}
